@@ -51,8 +51,8 @@ sudo pacman -S xclip gnome-themes-extra adw-gtk-theme nwg-look ffmpegthumbnailer
 Clone the repository:
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone https://github.com/paulGitRoot/Arch_i3_setup.git
+cd Arch_i3_setup
 ```
 
 Copy the configuration files:
