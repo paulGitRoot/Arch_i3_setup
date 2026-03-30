@@ -22,27 +22,7 @@ sudo pacman -Sy
 Run the following command to install all dependencies needed for this configuration:
 
 ```bash
-sudo pacman -S \
-xclip \
-gnome-themes-extra \
-adw-gtk-theme \
-nwg-look \
-ffmpegthumbnailer \
-gst-libav \
-blueman \
-tumbler \
-pipewire \
-pipewire-alsa \
-pipewire-pulse \
-wireplumber \
-nemo \
-mpv \
-os-prober \
-nvim \
-kitty \
-nautilus \
-brightnessctl \
-picom
+sudo pacman -S xclip gnome-themes-extra adw-gtk-theme nwg-look ffmpegthumbnailer gst-libav blueman tumbler pipewire pipewire-alsa pipewire-pulse wireplumber nemo mpv os-prober nvim kitty nautilus brightnessctl picom
 ```
 
 ---
