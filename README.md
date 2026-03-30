@@ -70,30 +70,3 @@ After copying configs, reload i3:
 ```bash
 Mod + Shift + r
 ```
-
----
-
-## ⚠️ Disclaimer
-
-This configuration may overwrite your existing configs.
-It is recommended to back up your current setup before applying.
-
----
-
-## 📸 Preview
-
-*Add screenshots here*
-
----
-
-## 🧠 Credits
-
-* i3 community
-* Arch Linux ecosystem
-* Various dotfiles inspirations
-
----
-
-## 📜 License
-
-MIT License (or your preferred license)
