@@ -68,5 +68,5 @@ cp -r .config/* ~/.config/
 After copying configs, reload i3:
 
 ```bash
-Mod + Shift + r
+Mod + Shift + c
 ```
